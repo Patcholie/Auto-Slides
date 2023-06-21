@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Important Notes</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    
-    h1 {
-      color: #333;
-    }
-    
-    p {
-      color: #666;
-    }
-    
-    .disclaimer {
-      margin-top: 30px;
-      font-style: italic;
-      color: #999;
-    }
-  </style>
-</head>
 <body>
   <h1>Important Notes</h1>
   
