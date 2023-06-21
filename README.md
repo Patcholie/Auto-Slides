@@ -3,7 +3,7 @@
   
   <h2>Note 1: My First Project</h2>
   
-  <p>This project represents my initial foray into programming. It was the first project I ever undertook, and it holds a special place in my journey as a programmer.</p>
+  <p>This project represents my initial foray into programming. It was the first project I ever undertook, and it holds a special place in my journey as a programmer. I also tried to challenge myself when creating this project,</p>
   
   <h2>Note 2: Python Programming Skills</h2>
   
